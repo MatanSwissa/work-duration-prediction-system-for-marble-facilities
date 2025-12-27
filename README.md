@@ -93,7 +93,7 @@ A few things to notice:
 
 ---
 
-# GOOGLE COLAB NOTEBOOK FILE (Marble_Facility_ML+Stats)
+# GOOGLE COLAB NOTEBOOK FILE (Marble_Facility_ML+Stats.ipynb)
 
 Note that when loading data, you should insert your google sheet URL address in the “LOAD DATA” section of the code.
 The code uses random forest regression model for prediction on data - CAD, CNC, Waterjet, and Supplementary time durations from “Stage Deltas” on your google sheet,
