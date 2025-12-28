@@ -3,7 +3,7 @@
 Central Control and Work Duration Prediction System for Marble Facilities
 
 This project was derived from a marble facility request for a work management tool that would be suitable for the factory’s needs, which are specific due to a recent transition toward automation.
-To answer this need, I’ve built Marble_Facility-CCS — a Google Sheets + Apps Script–based central control system, designed specifically for marble facilities.
+To answer this need, I’ve built Marble_Facility-CCS - a Google Sheets + Apps Script–based central control system, designed specifically for marble facilities.
 This system manages the full factory workflow, timestamps each work stage, and accumulates historical production data.
 
 On top of that, the project is accompanied by Marble_Facility_ML_Stats, a Google Colab notebook used for work duration prediction, based on 1.5+ years of real factory data, using a combination of machine learning and statistical modeling.
